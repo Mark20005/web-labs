@@ -1,0 +1,32 @@
+{
+  "teachers": [
+    {
+      "gender": "male",
+      "title": "",
+      "full_name": "Марк Кучик",
+      "city": "Вараш",
+      "state": "",
+      "country": "Україна",
+      "postcode": "",
+      "coordinates": {
+        "latitude": "-",
+        "longitude": "-"
+      },
+      "timezone": {
+        "offset": "-",
+        "description": "-"
+      },
+      "email": "kucikm23@gmail.com",
+      "b_date": "2025-05-13",
+      "age": -1,
+      "phone": "0963208347",
+      "picture_large": "https://randomuser.me/api/portraits/lego/1.jpg",
+      "picture_thumbnail": "https://randomuser.me/api/portraits/lego/1.jpg",
+      "id": "nsfcync",
+      "favorite": false,
+      "course": "fdgs",
+      "bg_color": "#441313",
+      "note": null
+    }
+  ]
+}
